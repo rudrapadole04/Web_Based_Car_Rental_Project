@@ -99,7 +99,7 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ## Project Report
 
-- The project report is stored in a folder called [report]().
+- The project report is stored in a folder called [report](https://github.com/rudrapadole04/Web_Based_Car_Rental_Project/blob/main/report/Web_based_car_rental_report.pdf).
 - Report consists of the following:
     - Introduction
     - Literature Review
